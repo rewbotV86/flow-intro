@@ -6,10 +6,3 @@ class MyClass {
     }
 }
 
-// class MyClass {
-//     prop: number;
-//     method() {
-//       this.prop = 42; 
-//     }
-// }
-
